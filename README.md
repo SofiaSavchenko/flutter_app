@@ -1,3 +1,4 @@
-# flutter_app
-
-A new Flutter project.
+# Flutter
+| Описание | Результат |
+|----------|-----------|
+| Верстка приложения реализована при помощи Material Design Flutter. | ![Скрины](image_1.jpg, image_2.jpg) |
