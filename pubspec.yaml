@@ -1,0 +1,33 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/avatar.png
+    - assets/images/flag.png
+    - assets/images/percent.png
+    - assets/images/right_s.png
+    - assets/images/speedometer.png
+    - assets/images/percent_without_back.png
+    - assets/images/arrows_forward_back.png
+    - assets/images/cross.png
+    - assets/images/arrow_right.png
+  fonts:
+    - family: SFProText
+      fonts:
+        - asset: assets/fonts/SFProText-Medium.ttf
